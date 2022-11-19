@@ -44,7 +44,10 @@
   <p>
     O jogo foi totalmente inspirado no jogo da lançado em 1981 da empresa Activision que possui por nome: Freeway, o jogo consiste em fazer o maior numero de pontos ao atravessar a rua, sem ser atropelado claro, contém algumas lógicas como: Pontuação só pode ser diminuida enquanto a quantidade de pontos for maior que 0, ao atravessar a rua por completo o usuário marca 1 ponto, se o personagem sair da tela ele reaparecerá do outro lado da tela, seguindo um padrão dos jogos 2d antigos, porém não é possivel "escapar" da tela indo para baixo do "mapa", é possivel ver o codigo do jogo no <a href="https://github.com/Matheus-FSantos/JogosJS/tree/main/Jogo%2001" target="_blank">repositório</a>, é possivel também ver o <a href="https://github.com/Matheus-FSantos/JogosJS/blob/main/Jogo%2001/Video.mp4" target="_blank">video</a> do jogo em funcionamento e uma imagem do jogo logo abaixo.
   </p>
-  <img align="center" alt="Matheus-Jogo01" height="auto" width="550" src="https://user-images.githubusercontent.com/109228925/202874916-a7b4a783-caad-459a-b018-ffce6d816faf.png">
+  <div>
+      <img align="center" alt="Matheus-Jogo01" height="auto" width="550" src="https://user-images.githubusercontent.com/109228925/202874916-a7b4a783-caad-459a-b018-ffce6d816faf.png">
+    <img align="center" alt="Matheus-Freeway" height="435" width="326" src="https://media.alvanista.com/uploads/game/23/13711/medium_cover.png">
+  </div>
 </section>
 
 <hr>
