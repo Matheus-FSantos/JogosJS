@@ -52,6 +52,6 @@
 
 <hr>
 
-<section align="center">
+<div align="center">
   <img align="center" alt="Matheus-JS" height="auto" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</section>
+</div>
